@@ -46,22 +46,24 @@ The defect report contains the project, product name, released version, product 
 :seven: Explain regression and confirmation testing. 
 
 
-Regression Testing: Regression testing is the process of determining whether newly added feature is creating any faults in interim functionalities, and whether common functionalities are stable in both the most recent and earlier versions.
-Confirmation testing: Confirmation is a type of change-related tests performed after a defect is corrected to ensure a failure based on by that defect doesn't happen again.
+- Regression Testing: 
+Regression testing is the process of determining whether newly added feature is creating any faults in interim functionalities, and whether common functionalities are stable in both the most recent and earlier versions.
+- Confirmation testing: 
+Confirmation is a type of change-related tests performed after a defect is corrected to ensure a failure based on by that defect doesn't happen again.
 
 
 :eight: Explain how do you arrive at a project estimation?
 The following project estimation technique are:
 
-(1)	Estimates made by an expert.
+- Estimates made by an expert.
 The degree to which a new project follows to experience and the expert's ability to recall details of previous projects both have a significant impact on the trustworthiness of estimates based on expert judgment. The estimates are typically qualitative rather than being objective. It is challenging for someone else to replicate and apply an expert's knowledge and expertise while utilizing this method, which is a significant flaw.
-(2)	Estimates using reasoning by analogy.
+- Estimates using reasoning by analogy.
 An evaluated database of comparable historical projects, project sections, or project modules serves as the basis for a cost prediction technique based on reasoning by analogy. It is required to gather and document information about previous projects in order to compare a new project to one or more completed projects and determine whether there are any similarities.
-(3)	Estimates using Price-to-Win.
+- Estimates using Price-to-Win.
 It is difficult to consider the Price-to-Win strategy a SCE technique. The main motivation for implementing this strategy is business. It is amazing that firms using Price-to-Win have estimations that are just as precise as those using alternative methodologies.
-(4)	Estimates using available capacity.
+- Estimates using available capacity.
 The availability of resources, particularly of manpower, is the foundation of the estimating method, which views SCE as a capacity problem. Here's an illustration from the capacity planning: Over the following four months, the new project will be able to use three personnel.
-(5)	Estimates using the use of parametric models.
+- Estimates using the use of parametric models.
 The development time and effort are calculated using parametric models as a function of several parameters. The major cost determinants are these elements. Numerous techniques and parameters form the foundation of an estimation model. In large part, the parameters' values and the types of algorithms are determined by the information in a database of finished projects.
 
 
