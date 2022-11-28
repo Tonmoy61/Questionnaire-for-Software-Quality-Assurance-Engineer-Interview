@@ -31,8 +31,8 @@ The defect report contains the project, product name, released version, product 
 :six: How do you take screenshots in Selenium We Driver?
 
 
-- ##### Add this library into gradle:
-- ***commons-io repository***
+-##### Add this library into gradle:
+-***commons-io repository***
 | ![Code Sample](./Screenshot/screenshot.png) |
 | :------------------------------------------:|
 |               _Selenium Screenshot Code_              |
