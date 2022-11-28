@@ -31,7 +31,7 @@ The defect report contains the project, product name, released version, product 
 :six: How do you take screenshots in Selenium We Driver?
 
 
-Add this library into gradle:
+### Add this library into gradle:
 // https://mvnrepository.com/artifact/commons-io/commons-io
 implementation group: 'commons-io', name: 'commons-io', version: '2.11.0'
 
