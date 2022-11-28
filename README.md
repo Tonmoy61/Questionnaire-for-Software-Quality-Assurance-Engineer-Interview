@@ -31,8 +31,8 @@ The defect report contains the project, product name, released version, product 
 :six: How do you take screenshots in Selenium We Driver?
 
 
-##### Add this library into gradle:
-***commons-io repository***
+- ##### Add this library into gradle:
+- ***commons-io repository***
 | ![Code Sample](./Screenshot/screenshot.png) |
 | :------------------------------------------:|
 |               _Selenium Screenshot Code_              |
@@ -71,8 +71,8 @@ The development time and effort are calculated using parametric models as a func
 
 
 The purpose of exit criteria is when to stop testing. Exit criteria are a set of requirements that must be satisfied in order to end the STLC phase. 
-Test Cases should be written and reviewed.
-Test Data should be identified and ready.
-Test automation script should be ready if applicable.
+- Test Cases should be written and reviewed.
+- Test Data should be identified and ready.
+- Test automation script should be ready if applicable.
 
 
