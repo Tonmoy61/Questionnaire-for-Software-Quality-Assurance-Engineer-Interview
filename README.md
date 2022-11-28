@@ -34,6 +34,14 @@ The defect report contains the project, product name, released version, product 
 ### Add this library into gradle:
 // https://mvnrepository.com/artifact/commons-io/commons-io
 implementation group: 'commons-io', name: 'commons-io', version: '2.11.0'
+| ![Code Sample](./Screenshot/screenshot.png) |
+| :------------------------------------------:|
+|               _Selenium Screenshot Code_              |
+
+
+| ![Screenshot From Webpage](./Screenshot/332-11-2022-10-56-56-AM.png) |
+| :------------------------------------------:|
+|               _Selenium Genereted Screenshot_              |
 
 
 :seven: Explain regression and confirmation testing. 
