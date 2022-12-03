@@ -19,7 +19,7 @@ In a dynamic environment where testing requirements are always changing to meet 
 - Software is regularly delivered that is functional.
 - Focus on both technical excellence and good design.
 - Even late changes in requirements are accepted.
-**when starting the Agile model:**
+#### **when starting the Agile model:**
 
 
 
