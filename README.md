@@ -20,6 +20,9 @@ In a dynamic environment where testing requirements are always changing to meet 
 - Focus on both technical excellence and good design.
 - Even late changes in requirements are accepted.
 #### **when starting the Agile model:**
+- It is relatively inexpensive to introduce new changes.
+- The developers only need to miss a few days of work to add a new feature.
+- In contrast to the waterfall paradigm, the agile style requires very little planning before the project can begin.
 
 
 
