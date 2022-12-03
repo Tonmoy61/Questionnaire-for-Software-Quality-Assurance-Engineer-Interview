@@ -14,7 +14,14 @@ For instance: A software system accepts birthday of members only from 15 to 90 y
 
 
 In a dynamic environment where testing requirements are always changing to meet client expectations, a QA practices agile testing. The testing team frequently receives minor codes from the development team for testing as it is done concurrently with development activities. 
-The significance of this testing is that it does not wait for the development team to finish the code before performing testing, which is the typical for testing processes. Testing is conducted concurrently with coding. Customers must be engaged continuously.
+- Client satisfaction by continuous delivery of software.
+- Client, developers and testers constantly interact with each other.
+- Software is regularly delivered that is functional.
+- Focus on both technical excellence and good design.
+- Even late changes in requirements are accepted.
+**when starting the Agile model:**
+
+
 
 
 :four: Explain Low Severity & High Priority Bug?
