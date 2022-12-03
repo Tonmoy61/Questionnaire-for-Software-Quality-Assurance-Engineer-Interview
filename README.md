@@ -63,7 +63,7 @@ Confirmation is a type of change-related tests performed after a defect is corre
 
 
 :eight: **Explain how do you arrive at a project estimation?**
-### The following project estimation technique are:
+#### The following project estimation technique are:
 
 - **Estimates made by an expert**
 The degree to which a new project follows to experience and the expert's ability to recall details of previous projects both have a significant impact on the trustworthiness of estimates based on expert judgment. The estimates are typically qualitative rather than being objective. It is challenging for someone else to replicate and apply an expert's knowledge and expertise while utilizing this method, which is a significant flaw.
