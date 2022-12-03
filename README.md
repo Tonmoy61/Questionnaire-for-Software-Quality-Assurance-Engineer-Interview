@@ -1,16 +1,16 @@
 <h1 align="center">Questionnaire-for-SQA-Engineer-Interview</h1>
 
 ## :pushpin: Following question are
-:one: Explain the steps for Bug Cycle? 
+:one: **Explain the steps for Bug Cycle?** 
 
 The tester reports the bug, which is then given to the development manager with an open status. The development team will address the bug if it is a true defect. The defect will be denied and disregarded if it is not a valid flaw. The next stage will be to determine if it falls within the scope. Defects are delayed if the bug is not present in the most recent release. When a fault or flaw is reported earlier, the tester will designate it as duplicate. A bug will have an IN-PROGRESS status when it is delivered to a developer to fix. Once the flaw has been fixed, the status will change to FIXED, and if the product passes the last test, the tester will give the status of CLOSED. 
 
-:two: What is meant by boundary value analysis?
+:two: **What is meant by boundary value analysis?**
 
 The technique of boundary value analysis is used to choose test data. The values chosen by the test engineer are those that are near the data edges. Max, Min, Just Inside, Just Outside, Typical Values, and Error Values are all included. The test cases are written using a technique called boundary value analysis. 
 For instance: A software system accepts birthday of members only from 15 to 90 years. <15 is invalid, 15-90 is valid and >90 valid. Check boundary value and then Minimum-1, minimum +1 and maximum+1, maximum-1.
 
-:three: What is Agile testing and what is the importance of Agile testing? 
+:three: **What is Agile testing and what is the importance of Agile testing?**
 
 
 In a dynamic environment where testing requirements are always changing to meet client expectations, a QA practices agile testing. The testing team frequently receives minor codes from the development team for testing as it is done concurrently with development activities. 
@@ -27,18 +27,18 @@ In a dynamic environment where testing requirements are always changing to meet 
 
 
 
-:four: Explain Low Severity & High Priority Bug?
+:four: **Explain Low Severity & High Priority Bug?**
 
 
 Good example is Images not updated. Another example, the customer will waste money because the printing task is still outstanding if the printer prints several copies rather than a single copy. This can be fixed in the following product release.
 
 
-:five: List the basic components of the defect report format.
+:five: **List the basic components of the defect report format.**
 
 The defect report contains the project, product name, released version, product build, and the software module where the flaw was discovered, as well as a special identification number by which the defect is recorded in the bug tracking program. The defect report will include a summary of the defect, a description of the problem and the procedures taken to recreate it, the actual result, the anticipated outcome, and the defect severity, i.e., the severity of the defect's detrimental influence on the quality of the software: critical, major, minor, or trivial, the defect's priority, or how urgently it needs to be fixed, Name of the developer who will be tasked with fixing the fault, as well as the tester who found it. According to the bug life cycle, the defect's current status depends on whether it is still new, assigned, open, resolved by the developer, being tested by the tester, fixed, or closed.
 
 
-:six: How do you take screenshots in Selenium We Driver?
+:six: **How do you take screenshots in Selenium We Driver?**
 
 
 ##### Add this library into gradle:
@@ -53,7 +53,7 @@ The defect report contains the project, product name, released version, product 
 |               _Selenium Genereted Screenshot_              |
 
 
-:seven: Explain regression and confirmation testing. 
+:seven: **Explain regression and confirmation testing.**
 
 
 - Regression Testing: 
@@ -62,7 +62,7 @@ Regression testing is the process of determining whether newly added feature is 
 Confirmation is a type of change-related tests performed after a defect is corrected to ensure a failure based on by that defect doesn't happen again.
 
 
-:eight: Explain how do you arrive at a project estimation?
+:eight: **Explain how do you arrive at a project estimation?**
 The following project estimation technique are:
 
 - **Estimates made by an expert**
@@ -77,7 +77,7 @@ The availability of resources, particularly of manpower, is the foundation of th
 The development time and effort are calculated using parametric models as a function of several parameters. The major cost determinants are these elements. Numerous techniques and parameters form the foundation of an estimation model. In large part, the parameters' values and the types of algorithms are determined by the information in a database of finished projects.
 
 
-:nine: What is the purpose of exit criteria?
+:nine: **What is the purpose of exit criteria?**
 
 
 The purpose of exit criteria is when to stop testing. Exit criteria are a set of requirements that must be satisfied in order to end the STLC phase. 
