@@ -42,7 +42,7 @@ The defect report contains the project, product name, released version, product 
 
 
 ##### Add this library into gradle:
-- ***commons-io repository***
+***commons-io repository***
 | ![Code Sample](./Screenshot/screenshot.png) |
 | :------------------------------------------:|
 |               _Selenium Screenshot Code_              |
