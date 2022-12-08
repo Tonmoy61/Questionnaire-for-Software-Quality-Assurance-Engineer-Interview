@@ -1,7 +1,7 @@
 <h1 align="center">Questionnaire-for-SQA-Engineer-Interview</h1>
 
 ## :pushpin: Following question are
-:one: **Explain the steps for Bug Cycle?** 
+:one: [**Explain the steps for Bug Cycle?** ]
 
 The tester reports the bug, which is then given to the development manager with an open status. The development team will address the bug if it is a true defect. The defect will be denied and disregarded if it is not a valid flaw. The next stage will be to determine if it falls within the scope. Defects are delayed if the bug is not present in the most recent release. When a fault or flaw is reported earlier, the tester will designate it as duplicate. A bug will have an IN-PROGRESS status when it is delivered to a developer to fix. Once the flaw has been fixed, the status will change to FIXED, and if the product passes the last test, the tester will give the status of CLOSED. 
 
