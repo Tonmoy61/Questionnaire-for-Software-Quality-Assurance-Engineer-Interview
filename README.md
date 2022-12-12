@@ -53,7 +53,7 @@ Good example is Images not updated. Another example, the customer will waste mon
 The defect report contains the project, product name, released version, product build, and the software module where the flaw was discovered, as well as a special identification number by which the defect is recorded in the bug tracking program. The defect report will include a summary of the defect, a description of the problem and the procedures taken to recreate it, the actual result, the anticipated outcome, and the defect severity, i.e., the severity of the defect's detrimental influence on the quality of the software: critical, major, minor, or trivial, the defect's priority, or how urgently it needs to be fixed, Name of the developer who will be tasked with fixing the fault, as well as the tester who found it. According to the bug life cycle, the defect's current status depends on whether it is still new, assigned, open, resolved by the developer, being tested by the tester, fixed, or closed.
 
 
-:six: **How do you take screenshots in Selenium We Driver?**
+:six: **How do you take screenshots in Selenium Web Driver?**
 
 
 ##### Add this library into gradle:
