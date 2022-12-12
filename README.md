@@ -78,7 +78,7 @@ Confirmation is a type of change-related tests performed after a defect is corre
 
 
 :eight: **Explain how do you arrive at a project estimation?**
-Project estimation is the process of determining the amount of time, effort, and resources that are required to complete a software project. This is an important step in the software development process, as it allows the development team to plan and allocate resources effectively, and to set realistic expectations for the project.
+#### Project estimation is the process of determining the amount of time, effort, and resources that are required to complete a software project. This is an important step in the software development process, as it allows the development team to plan and allocate resources effectively, and to set realistic expectations for the project.
 
 #### The following project estimation technique are:
 
