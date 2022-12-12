@@ -78,6 +78,8 @@ Confirmation is a type of change-related tests performed after a defect is corre
 
 
 :eight: **Explain how do you arrive at a project estimation?**
+Project estimation is the process of determining the amount of time, effort, and resources that are required to complete a software project. This is an important step in the software development process, as it allows the development team to plan and allocate resources effectively, and to set realistic expectations for the project.
+
 #### The following project estimation technique are:
 
 - **Estimates made by an expert**
@@ -90,6 +92,8 @@ It is difficult to consider the Price-to-Win strategy a SCE technique. The main 
 The availability of resources, particularly of manpower, is the foundation of the estimating method, which views SCE as a capacity problem. Here's an illustration from the capacity planning: Over the following four months, the new project will be able to use three personnel.
 - **Estimates using the use of parametric models**
 The development time and effort are calculated using parametric models as a function of several parameters. The major cost determinants are these elements. Numerous techniques and parameters form the foundation of an estimation model. In large part, the parameters' values and the types of algorithms are determined by the information in a database of finished projects.
+
+Overall, project estimation is an important step in the software development process, and there are several different methods that can be used to arrive at a project estimate. The specific approach used will depend on the project and the development team.
 
 
 :nine: **What is the purpose of exit criteria?**
