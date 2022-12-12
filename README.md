@@ -3,7 +3,21 @@
 ## :pushpin: Following question are
 :one: **Explain the steps for Bug Cycle?**
 
-The tester reports the bug, which is then given to the development manager with an open status. The development team will address the bug if it is a true defect. The defect will be denied and disregarded if it is not a valid flaw. The next stage will be to determine if it falls within the scope. Defects are delayed if the bug is not present in the most recent release. When a fault or flaw is reported earlier, the tester will designate it as duplicate. A bug will have an IN-PROGRESS status when it is delivered to a developer to fix. Once the flaw has been fixed, the status will change to FIXED, and if the product passes the last test, the tester will give the status of CLOSED. 
+The bug cycle, also known as the software development life cycle (SDLC), is a series of steps that software developers follow to create a high-quality product. The specific steps in the bug cycle can vary depending on the methodology being used, but typically it includes the following stages:
+
+- Planning: In this stage, the development team defines the goals and objectives of the software project, as well as the requirements and constraints.
+
+- Analysis: In this stage, the development team analyzes the project requirements and identifies any potential issues or challenges that need to be addressed.
+
+- Design: In this stage, the development team designs the overall structure and architecture of the software, as well as the individual components and features.
+
+- Implementation: In this stage, the development team writes the code for the software and integrates it with any third-party libraries or frameworks.
+
+- Testing: In this stage, the development team tests the software to ensure that it functions as expected and meets the specified requirements. This may include both manual testing by the development team and automated testing using tools such as unit tests and integration tests.
+
+- Deployment: In this stage, the software is released to users and made available for download or use.
+
+- Maintenance: In this stage, the development team provides ongoing support for the software, including bug fixes, updates, and new features.
 
 :two: **What is meant by boundary value analysis?**
 
