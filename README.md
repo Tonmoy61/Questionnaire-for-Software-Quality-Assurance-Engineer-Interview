@@ -22,7 +22,7 @@ The bug cycle, also known as the software development life cycle (SDLC), is a se
 :two: **What is meant by boundary value analysis?**
 
 The technique of boundary value analysis is used to choose test data. The values chosen by the test engineer are those that are near the data edges. Max, Min, Just Inside, Just Outside, Typical Values, and Error Values are all included. The test cases are written using a technique called boundary value analysis. 
-For instance: A software system accepts birthday of members only from 15 to 90 years. <15 is invalid, 15-90 is valid and >90 valid. Check boundary value and then Minimum-1, minimum +1 and maximum+1, maximum-1.
+For instance: A software system accepts birthday of members only from 15 to 90 years. <15 is invalid, 15-90 is valid and >90 valid. Check boundary value and then Minimum-1, minimum +1 and maximum+1, maximum-1. Overall, boundary value analysis is an important technique for identifying potential errors in software and ensuring that it is reliable and stable.
 
 :three: **What is Agile testing and what is the importance of Agile testing?**
 
