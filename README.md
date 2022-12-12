@@ -43,6 +43,7 @@ In a dynamic environment where testing requirements are always changing to meet 
 
 :four: **Explain Low Severity & High Priority Bug?**
 
+A low severity and high priority bug is a type of software defect that has a minor impact on the functionality of the software, but is considered to be highly important by the development team.
 
 Good example is Images not updated. Another example, the customer will waste money because the printing task is still outstanding if the printer prints several copies rather than a single copy. This can be fixed in the following product release.
 
