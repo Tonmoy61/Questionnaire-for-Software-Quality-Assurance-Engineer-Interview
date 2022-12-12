@@ -99,7 +99,7 @@ Overall, project estimation is an important step in the software development pro
 :nine: **What is the purpose of exit criteria?**
 
 
-The purpose of exit criteria is when to stop testing. Exit criteria are a set of requirements that must be satisfied in order to end the STLC phase. 
+The purpose of exit criteria is when to stop testing. Exit criteria are a set of requirements that must be satisfied in order to end the STLC phase. Exit criteria are important because they provide a clear and objective way to determine when a project or development stage is ready to move on to the next phase. This helps to ensure that the project stays on track and that the team is focused on the most important tasks and objectives. Additionally, having well-defined exit criteria can help to avoid misunderstandings or miscommunications within the team, and can provide a basis for measuring the success of the project or development stage.
 **Stages of Exit Criteria:**
 - Verify the expected outputs
 - Detailed Incident Reports
